@@ -18,8 +18,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Buscamos voluntarios para evaluar, diseñar, validar y obtener la fabricación de 
   suministros médicos de emergencia de código abierto en todo el mundo, dada una 
   variedad de condiciones locales de suministro.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://contra-el-covid-mx.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: groups/882303822250146/
 github_username:  Contra-el-Covid-MX
 
