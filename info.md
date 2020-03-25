@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About the Group
-description: This is what I do.
+title: Acerca del proyecto
+description: Este grupo se está formando para evaluar, diseñar, validar y obtener la fabricación de suministros médicos de emergencia de código abierto en todo el mundo, dada una variedad de condiciones locales de suministro.
 background: '/img/bg-about.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex alias, earum consectetur quia natus ducimus voluptate explicabo, hic porro reprehenderit, quasi? Tenetur ipsum distinctio laboriosam perspiciatis officiis dolore, architecto id.
+COVID-19 Se está extendiendo actualmente de manera exponencial, en su mayor parte sin control, en todo el mundo.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam inventore aspernatur repellendus incidunt adipisci modi voluptates recusandae iste eligendi, repudiandae corporis quod aut, optio! Explicabo quaerat unde voluptatem! Itaque, eum!
+Las tasas de duplicación de infección son tan altas como 2-3 días. Bajo modelos simplistas, tal crecimiento sin control significa que la enfermedad infecta a la mayor parte del mundo en meses.
+
+Las estadísticas actuales indican que entre el 15 y el 20% de las personas que la padecen requieren hospitalización por insuficiencia respiratoria durante varias semanas y, a menudo, necesitan atención médica intensa por parte de profesionales médicos que corren un riesgo grave de tratar a estos pacientes altamente infecciosos.
+
+Si las infecciones continúan a su ritmo actual en todo el mundo, no tendremos suficientes suministros como ventiladores, respiradores, equipo de protección personal etc. para satisfacer la demanda.
+
+By@opensourcecovid19medicalsupplies
 
 
 
