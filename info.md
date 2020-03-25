@@ -16,5 +16,7 @@ Si las infecciones continúan a su ritmo actual en todo el mundo, no tendremos s
 
 By@opensourcecovid19medicalsupplies
 
+## ¿Cómo ayudar?
 
+![](/assets/diag/Voluntarios.svg)
 
