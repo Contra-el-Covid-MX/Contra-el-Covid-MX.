@@ -5,4 +5,4 @@ description: Descripción de proyectos aprobados y en desarrollo.
 background: '/PATH_TO_IMAGE'
 ---
 # Proyectos
-[![](/assets/diag/Voluntarios.svg)](www.google.com)
+[![](/_projects/P1.svg)](/_projects/P9_trajes_md)
