@@ -4,7 +4,7 @@ title: Proyectos
 description: Descripción de proyectos aprobados y en desarrollo.
 background: '/PATH_TO_IMAGE'
 ---
-# Proyectos-
+# Proyectos
 [![](/assets/diag/P1.svg)](/projects/P9.md)
 [![](/assets/diag/P2.svg)](/_projects/P2.md)
 [![](/assets/diag/P3.svg)](/_projects/P3.md)
